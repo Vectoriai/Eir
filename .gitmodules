@@ -1,0 +1,3 @@
+[submodule "external/cursor-bank"]
+	path = external/cursor-bank
+	url = https://github.com/tacticlaunch/cursor-bank.git
